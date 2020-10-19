@@ -1,0 +1,32 @@
+/* div{
+    width: 200px;
+    height:200px;
+    background:wheat;
+    font-size:30px;
+    text-align:center;
+    line-height:200px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-color: blue;
+    border-radius: 30px;
+  } */
+
+/* div{
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+    padding: 40px 45px 40px 45px;
+} */
+
+
+
+/* Order: top right bottom left */
+#a >div {
+    background:wheat;
+    margin: 50px 60px 50px 40px;  
+}
+  
+#a{
+    border:1px solid black
+}
